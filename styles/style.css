@@ -277,7 +277,7 @@ ol {
 }
 
 .content__card-link_current {
-  background-color: #545050;
+  background-color: #545050; /*добавляем фон активной карточке*/
 }
 
 
